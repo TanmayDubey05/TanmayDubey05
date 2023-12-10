@@ -24,6 +24,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=TanmayDubey05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=TanmayDubey05&icon=0&color=0)](https://visitcount.itsvg.in)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Pranjul-3&theme=react-dark&show_border=true&area=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=Pranjul-3&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
